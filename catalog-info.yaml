@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: test 2
+  name: test 1
   description: My awesome repo
 spec:
   type: service
