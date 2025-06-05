@@ -2,8 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test
-  description: test repo
+  description: My awesome service
 spec:
   type: service
-  owner: AdityaK60
-  lifecycle: production
+  owner: aditya1693
+  lifecycle: experimental
