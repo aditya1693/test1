@@ -7,5 +7,5 @@ metadata:
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
-  owner: Aditya
+  owner: group:default/aditya   # or user:default/aditya
   lifecycle: production
